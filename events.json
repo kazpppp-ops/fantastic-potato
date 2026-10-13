@@ -1,0 +1,23 @@
+[
+  {
+    "name": "freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "description": "The open-source community that helps you learn to code.",
+    "language": "TypeScript",
+    "stars": 430000
+  },
+  {
+    "name": "awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "description": "A curated list of awesome lists.",
+    "language": " ",
+    "stars": 380000
+  },
+  {
+    "name": "oh-my-posh",
+    "url": "https://github.com/JanDeDobbeleer/oh-my-posh",
+    "description": "A prompt theme engine for any shell.",
+    "language": "Go",
+    "stars": 18000
+  }
+]

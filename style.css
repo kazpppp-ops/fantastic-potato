@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  padding: 2rem 1rem;
+  color: #24292f;
+  background: #f6f8fa;
+  font-family: system-ui, sans-serif;
+}
+
+main {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+h1 {
+  margin-bottom: 0.5rem;
+}
+
+#status {
+  color: #57606a;
+}
+
+.repository-list {
+  display: grid;
+  gap: 1rem;
+  margin: 1.5rem 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.repository-list li {
+  padding: 1rem;
+  border: 1px solid #d0d7de;
+  border-radius: 6px;
+  background: #fff;
+}
+
+.repository-list a {
+  color: #0969da;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.repository-list p {
+  margin: 0.5rem 0;
+}
+
+.repository-details {
+  color: #57606a;
+  font-size: 0.9rem;
+}
